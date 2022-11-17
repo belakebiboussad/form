@@ -1,7 +1,9 @@
-*git diff 
 *git fetch
 *HEAD est un fichoer texte
 *les différents niveau
-1.work tree 
-2.staged area(index)
-3.git repo
+git clean
+
+////
+Tmux 
+paired-programming
+tbd
