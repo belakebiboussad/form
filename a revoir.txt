@@ -2,7 +2,7 @@
 *HEAD est un fichoer texte
 *les différents niveau
 git clean
-
+git blame
 ////
 Tmux 
 paired-programming
