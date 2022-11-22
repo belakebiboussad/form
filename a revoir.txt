@@ -1,6 +1,3 @@
-*git fetch
-*HEAD est un fichoer texte
-*les différents niveau
 git clean
 git blame
 git add -A
