@@ -3,6 +3,7 @@
 *les différents niveau
 git clean
 git blame
+git add -A
 ////
 Tmux 
 paired-programming
