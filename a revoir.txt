@@ -5,3 +5,8 @@ git add -A
 Tmux 
 paired-programming
 tbd
+set tracking information
+ast-forward merge.
+//
+Feature Branch Workflow,Gitflow Workflow, Forking Workflow. Centralized Workflow. 
+
