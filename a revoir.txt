@@ -1,6 +1,7 @@
 git clean
 git blame
 git add -A
+git bisect
 ////
 Tmux 
 paired-programming
