@@ -1,0 +1,18 @@
+workflow centrralisé:
+stratégie 0 branch,tout les developpeurs fond des changement sur la branche principale(branche par defaut)  puis la mergé une fois terminé. Les cas de figure ou il est 
+1.Le code n’à pas besoin d’etre contrôlé (on travail seule, une petite équipe chaqu'un specialisé dans un dommun (back-end, front -end),qu’on veut livré rapidement parce que 
+La revue de code prend du temps)
+repondue dans la collaboration entre chercheur(domain scientific)
+avantages :
+-efficace pour une petite équipe( qui communique bien) parce que ils  ne modifie pas la meme partie du code simultanement.
+***Etapes suivé par le developeur:
+1.cloner
+2.faire des commits dans le branche principale locale
+3.
+
+***inconvignent:
+-deificle de trouvé le moment stable pour faire un release de changement
+- bouceaup de conflits, développé d’autre fonctionnalité et réglé les problème
+-difficile de supprimé et de restauré des fonctionnaliste
+-Perte de temps dans le reglage de conflit au lieu le développement
+/////////////////////////
