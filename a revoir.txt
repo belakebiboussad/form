@@ -1,4 +1,7 @@
-git clean
+git reset HEAD
+ git reset --hard 
+git checkout .
+
 git blame
 git add -A
 git bisect
