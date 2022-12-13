@@ -1,10 +1,12 @@
 git reset HEAD
- git reset --hard 
+git reset --hard 
 git checkout .
 
 git blame
 git add -A
+git ls-files
 git bisect
+
 ////
 Tmux 
 paired-programming
