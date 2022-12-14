@@ -1,7 +1,6 @@
-git reset HEAD
-git reset --hard 
+chunk 
 git checkout .
-
+upstream
 git blame
 git add -A
 git ls-files

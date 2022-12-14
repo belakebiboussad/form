@@ -1,0 +1,9 @@
+reset
+on veut deplacer le pointeur la branche(reinitialisé  le depot) vers une commit postérieure, annul les commit qui suis cette commit mas le répertoie de travail reste le meme.tout d'abord on localise la commit ou on a envie de retourné(git log).
+il est tolérabble d'aporté ce type de modification à notre dépot locale.mais à evité de faire ces changement et reécrire l'historique de dépot distant surtout si d'autre devloppeur travail dessus.
+meme si les commits n'apparaissent plus dans le journal,elles sont pas supprimé du Git (devient orphelin).avec hard meme je revient au dernier commit  mais je perd les modifications.utilise pour unstage des changements rien avoir avec le commit prochain.annulé des changemnt fait dans une experementation locale.refaire avec reset et trivial dans un elais de 30 jours apres supprié par un garbage collector.
+--mixed:mettre à jour la branche actuel vers le commit specifié et desindexé tout les changements vers le repertoire de travel
+--soft : mettre à jour la branche actuel vers le commit specifié(index et wd ne change pas)
+--hard :mettre à jour la branche actuel vers le commit specifié et desindexé tout les changements et supprimé les changements dans le repertoire de travail.touche pas ou stash et fichier non suivit(untracked)  
+pour reinitialisé une branche vers un posterieure commit utilise reset.pour un simple changement dans le repertoire de travail et dans l'index,ou bien restore un fichier à un etat posterieure on utilise restore.
+For resetting a branch to a previous commit AND specifying what to keep and what to discard in the process, git reset is the way to go. However, for a simple removal of changes from the working directory or staging area, or restoring individual files to a previous state, it's a good idea to familiarize yourself with git restore.
