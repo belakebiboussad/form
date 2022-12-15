@@ -5,7 +5,7 @@ git blame
 git add -A
 git ls-files
 git bisect
-
+commit --amend
 ////
 Tmux 
 paired-programming
