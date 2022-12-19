@@ -1,0 +1,10 @@
+swicher entre deux branche et restorer desfichiers dans WD cette partie est repris par la commande restore.travail sur 3 concept (branch,commit ,fichier).peut ere dangereuse parce que pas d'option de retour 
+-mettre ajour le code dans me WD pour matché la  version dans l'index ou bien dans le HEAD
+I.quelque utilisations
+1.git checkout -- « fichier » (restauré le fichier depuis index)
+2.git checkout HEAD -- a.txt (restauré le fichier depuis HEAD)
+3.git checkout -b <branch> --track <remote>/<branch>
+4.git checkout --detach [<branch>] // poite au commit precedant
+5.git checkout [--detach] <commit1> //poite au commit "commit1"
+6.git checkout <commit> [file] //restauré un ancien version de file
+7.git checkout otherbranch file (obtenir un fichier depuis une autre branche) 
