@@ -1,1 +1,1 @@
-detached HEAD state : lorsque head poite diectement vers un commit (commit hash ) au lieu de la branche
+detached HEAD state : lorsque head poite diectement vers un commit (commit hash ) au lieu de la branche/ je veu pas 
