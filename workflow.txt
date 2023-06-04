@@ -9,7 +9,6 @@ avantages :
 1.cloner
 2.faire des commits dans le branche principale locale
 3.
-
 ***inconvignent:
 -deificle de trouvé le moment stable pour faire un release de changement
 - bouceaup de conflits, développé d’autre fonctionnalité et réglé les problème
