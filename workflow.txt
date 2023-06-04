@@ -14,5 +14,4 @@ avantages :
 - bouceaup de conflits, développé d’autre fonctionnalité et réglé les problème
 -difficile de supprimé et de restauré des fonctionnaliste
 -Perte de temps dans le reglage de conflit au lieu le développement
--a developper
 /////////////////////////
